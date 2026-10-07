@@ -1,3 +1,5 @@
 IS316 - group RLRN
 
 Reema:Data science is an interesting field ! 
+
+Raghad:Git makes collaboration easier
