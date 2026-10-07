@@ -3,3 +3,5 @@ IS316 - group RLRN
 Reema:Data science is an interesting field ! 
 
 Raghad:Git makes collaboration easier
+
+Layan: Git helps us track changes in our project.
